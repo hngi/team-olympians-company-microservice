@@ -11,7 +11,7 @@
 
 #### 'RUN the following commands'
 
-#### '1. docker-compose run web python task2Api/manage.py migrate'
+#### '1. docker-compose run web python olympians/manage.py migrate'
 
 #### '2. docker-compose build'
 
@@ -19,7 +19,6 @@
 
 #### '#### Then open "http://127.0.0.1:8000/" in your browser'
 
- ![alt text](https://github.com/bauxitex3/team-olympians-company-microservice/blob/master/sample.png)
 
 # team-olympians-company-microservice
 
